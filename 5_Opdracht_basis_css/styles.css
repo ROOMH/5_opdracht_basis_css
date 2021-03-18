@@ -1,0 +1,22 @@
+html {
+    background-color:white;
+}
+
+body {
+    color:black;
+}
+.titelkleur {
+    color: cadetblue;
+}
+.lettertypeh2 {
+    font: 10px Geneva, Tahoma, sans-serif;
+}
+.tekstgrootte {
+    font-size: 40px;
+}
+.border {
+    border:cadetblue
+}
+main.border {
+    border: 4px solid cadetblue;
+}
